@@ -1,1 +1,3 @@
 ## 👋 Hi, I'm skip and welcome to my corner of the github universe!
+
+here's a bit of code, personal projects mostly, some doodles and testing other technologies for fun mostly...
