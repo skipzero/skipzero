@@ -7,3 +7,5 @@ As a developer with a design background, I feel I possess a unique skill set tha
 I excel at collaborating with the design team to discuss finer points of UI and with backend teams to help design quality APIs minimising large chunks of unneeded data being returned when endpoint is called.
 
 I'm looking for a new, full time role in the San Francisco/Oakland or nearby areas focusing on frontend or nodejs development using best practices to construct readable, maintainable code. I welcome opportunities to mentor junior developers and help guide others, surpassing the expectations and deadlines
+
+find me on <a rel="me" href="https://mastodon.social/@Jinx_138">Mastodon</a>
