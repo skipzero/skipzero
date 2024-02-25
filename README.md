@@ -4,6 +4,6 @@ I'm a frontend developer living in Oakland, Ca. I've been in the technology fiel
 
 As a developer with a design background, I feel I possess a unique skill set that allows me to work as a liaison between the technical side of things, and the less technical side of the company, such as designers and product managers, as well as customer service.
 
-I enjoyworking closely with design/product teams to produce advanced, engaging UIs, as well as  with backend teams to help design quality APIs minimising large chunks of unneeded data being returned when endpoint is called.
+I enjoy working closely with design/product teams to produce advanced, engaging UIs, as well as with backend teams to help implement quality APIs minimising unneeded data sent to client.
 
 find me on <a rel="me" href="https://mastodon.social/@Jinx_138">Mastodon</a>
