@@ -6,4 +6,6 @@ As a developer with a design background, I feel I possess a unique skill set tha
 
 I enjoy working closely with design/product teams to produce advanced, engaging UIs, as well as with backend teams to help implement quality APIs minimising unneeded data sent to client.
 
+![skipzero's Stats](https://github-readme-stats.vercel.app/api?username=skipzero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 find me on <a rel="me" href="https://mastodon.social/@Jinx_138">Mastodon</a>
